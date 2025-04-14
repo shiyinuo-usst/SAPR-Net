@@ -15,6 +15,7 @@ The dataset consists of EEG recordings from 30 subjects under resting, low, medi
 - `30/`: Directory containing the original EDF files for the 30 subjects.
 - `特征/`: Directory containing the extracted features from the EEG data, already divided into training and testing sets.
 - `SAPR-Net.py`: Brainprint recognizer
+- 'preprocessing and feature extraction' : Performs EEG preprocessing (e.g., filtering, normalization) and feature extraction (e.g., time/frequency domain features) from raw EDF data.
 
 ## Requirements
 
